@@ -1,4 +1,4 @@
-# Mon setup taskwarrior (par Hezirel)
+# Mon setup taskwarrior
 
 ## Associer des notes a une tâche
 
